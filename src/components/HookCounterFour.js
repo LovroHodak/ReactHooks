@@ -1,3 +1,4 @@
+// if state is ARRAY
 import React, {useState} from 'react'
 
 function HookCounterFour() {

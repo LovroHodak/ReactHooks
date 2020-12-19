@@ -1,3 +1,4 @@
+//if state is OBJECT
 import React, {useState} from 'react'
 
 export default function HookCounterThree() {
